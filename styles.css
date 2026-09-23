@@ -10,3 +10,7 @@ h2 {
 p {
     font-style: italic;
 }
+img {
+    max-width: 250px;
+    height: auto;
+}
